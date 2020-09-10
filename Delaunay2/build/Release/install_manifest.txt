@@ -1,0 +1,3 @@
+/home/leonardo/Development/BOSP/out/etc/bbque/recipes/Delaunay2.recipe
+/home/leonardo/Development/BOSP/out/usr/bin/delaunay2
+/home/leonardo/Development/BOSP/out/etc/bbque/Delaunay2.conf

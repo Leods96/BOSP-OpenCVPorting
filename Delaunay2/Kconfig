@@ -1,0 +1,12 @@
+
+config SAMPLES_OPENCV_DELAUNAY2
+  bool "Delaunay2"
+  default n
+  select BOSP_SAMPLES_OPENCV
+  ---help---
+  Build the Delaunay2 application.
+  
+  Insert here a description of this application.
+
+  If unsure, say No to this option.
+
