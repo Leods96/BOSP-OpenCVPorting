@@ -1,4 +1,4 @@
-# BOSP: Adaptive Execution Model porting of "OpenCV Delaunay2"
+# BOSP: Adaptive Execution Model porting of OpenCV-Delaunay2 porting
 
 This repo contains the src code of a porting of the OpenCV sample,
 delaunay2.cpp, (available at this
