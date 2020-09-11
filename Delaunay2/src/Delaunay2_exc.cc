@@ -25,7 +25,7 @@
 
 // Setup logging
 #undef  BBQUE_LOG_MODULE
-#define BBQUE_LOG_MODULE "aem.facedetect"
+#define BBQUE_LOG_MODULE "aem.delaunay2"
 #undef  BBQUE_LOG_UID
 #define BBQUE_LOG_UID GetChUid()
 
